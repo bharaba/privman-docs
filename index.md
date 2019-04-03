@@ -1,6 +1,6 @@
 [title]: # (Privilege Manager)
 [tags]: # (role,cli)
-[priority]: # 100
+[priority]: # (100)
 
 # Privilege Manager
 
