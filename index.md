@@ -1,4 +1,4 @@
-[title]: # (Privilege Manager)
+[title]: # (Privilege Manager Documentation)
 [tags]: # (role,cli)
 [priority]: # (100)
 
